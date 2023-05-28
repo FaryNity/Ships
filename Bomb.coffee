@@ -13,7 +13,7 @@ return model =
       capacity: [1e+300,1e+300] # 에너지 최대치
       reload: [1e+300,1e+300] # 에너지 리젠 최대치
     ship:
-      mass: 1e+300 # 질량 최대치
+      mass: [1e+300] # 질량 최대치
       speed: [800,800] # 속도 이거보다 더 빠르게 하면 버그남
       rotation: [1e+300,1e+300] # 선회력 최대치
       acceleration: [1e+300,1e+300] # 가속도 최대치
