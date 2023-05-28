@@ -1,6 +1,5 @@
 return model =
   name: 'Attacker'
-  designer: '3803'
   level: 1
   model: 1
   size: 3
