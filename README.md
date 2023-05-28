@@ -1,1 +1,1 @@
-# ships designed by me
+# Random starblast ships
