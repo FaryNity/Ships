@@ -1,6 +1,5 @@
 return model =
   name: 'FireCacker'
-  designer: '3803'
   level: 6
   model: 3
   size: 2
