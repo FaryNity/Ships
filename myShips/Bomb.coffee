@@ -1,3 +1,6 @@
+# Fly shaped hostship
+# type in game.ships[id].set({type:709}); in console to use 
+
 return model =
   name: 'Bomb'
   level: 7.9
