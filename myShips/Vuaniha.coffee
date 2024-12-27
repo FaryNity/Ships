@@ -1,3 +1,5 @@
+# Vuaniha from CTF
+
 return model =
   name: 'Vuaniha'
   level: 1
