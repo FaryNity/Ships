@@ -1,0 +1,33 @@
+return model =
+  name: 'Warp'
+  level: 7.9
+  model: 7
+  size: 1
+  zoom: 0.15
+  specs:
+    shield:
+      capacity: [690,690]
+      reload: [1000,1000]
+    generator:
+      capacity: [1,1]
+      reload: [1,1]
+    ship:
+      mass: 1
+      speed: [1000,1000]
+      rotation: [360,360]
+      acceleration: [20000,20000]
+  bodies: face:
+    section_segments: 100
+    angle: 0
+    offset:
+      x: 0
+      y: 0
+      z: 0
+    position:
+      x: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+      y: [-2,-2,2,2]
+      z: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+    width: [0,1,1,0]
+    height: [0,1,1,0]
+    vertical: true
+    texture: [ 6 ]
