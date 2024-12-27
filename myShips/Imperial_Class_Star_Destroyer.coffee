@@ -1,4 +1,5 @@
-  
+# Imperial Class Star Destroyer from starwars
+
 Array::mult = (m) -> @map (v) -> v*m
 Array::add = (m) -> @map (v) -> v+m
 
