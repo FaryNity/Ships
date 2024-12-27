@@ -1,3 +1,5 @@
+// full Vanila shiptree
+
 var shiptree = [];
 
 //tier 1
