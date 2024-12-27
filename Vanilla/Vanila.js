@@ -1,4 +1,7 @@
 // full Vanila shiptree
+// type playerList() in console to see ids & names of players in server
+
+playerList = funstion(){echo("\nList of players and their IDs:");for (let i=0; i<game.ships.length; i++){echo(i+": "+game.ships[i].name);}echo("\n");};
 
 var shiptree = [];
 
